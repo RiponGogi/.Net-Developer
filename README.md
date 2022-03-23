@@ -1,2 +1,1 @@
-# KG.ERP
-KG ERP
+.Net Developer
